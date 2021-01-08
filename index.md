@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Support Webpag for MP3 Converter
 
-You can use the [editor on GitHub](https://github.com/MeensaTech/MP3ConverterSupport/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MP3 Converter，An audio and video format conversion tool that supports the conversion of various audio and video file formats. You can extract audio format files from the recorded video files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Support export video format:MP4, MOV, 3GP, 3G2, ASF, MKV, VOB, MPEG, WMV, FLV, AVI.
+- Support export audio format:MP3, M4A, OGG, M4R, WAV, FLAC, WMA, AIFF, CAF, ADX, AC3, AAC.
+- Support to trim video and audio.
+- The built-in universal player can play media files, movies and music in various formats.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MeensaTech/MP3ConverterSupport/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact us:meensa_tech@163.com
